@@ -49,7 +49,6 @@ plt.title("Implementation of Univariate Linear Regression")
 plt.show()
 ```
 ## Output:
-![best fit line](sam.png)
 ![{F10D4495-D42A-491A-919B-0C12648F11C1}](https://github.com/user-attachments/assets/e9ae1dc8-ed21-43ec-882c-6058f610e28c)
 
 
